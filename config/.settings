@@ -1,0 +1,17 @@
+{
+    "projectName": "CLD - SRPFULL",
+    "username": "bkrynitsky@cldpartners.com.demo.srpfull",
+    "id": "086783c0-091e-11e7-a0e5-c38354595e92",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://cs51.salesforce.com",
+    "workspace": "/Users/briankrynitsky/Documents/Apex",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

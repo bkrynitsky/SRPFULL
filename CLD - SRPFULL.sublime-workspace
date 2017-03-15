@@ -1,0 +1,1012 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"seupt",
+				"setupTestJournal"
+			],
+			[
+				"setup",
+				"setupTestPIN"
+			],
+			[
+				"name",
+				"Name"
+			],
+			[
+				"testCash",
+				"testCashEntryLine"
+			],
+			[
+				"Journa",
+				"Journal_Entry_Created__c"
+			],
+			[
+				"rev",
+				"revTrans"
+			],
+			[
+				"journal",
+				"journalLineMap"
+			],
+			[
+				"c2g__jo",
+				"c2g__Journal__c"
+			],
+			[
+				"gla",
+				"glaMap"
+			],
+			[
+				"journa",
+				"journalMap"
+			],
+			[
+				"curren",
+				"currencyKey"
+			],
+			[
+				"cLn",
+				"cLineList"
+			],
+			[
+				"cLine",
+				"cLineList"
+			],
+			[
+				"Inter",
+				"Intercompany_Journal_Created__c"
+			],
+			[
+				"period",
+				"periodKey"
+			],
+			[
+				"tran",
+				"transIds"
+			],
+			[
+				"account",
+				"accountId"
+			],
+			[
+				"comp",
+				"companyWrapper8"
+			],
+			[
+				"is",
+				"isUpdate"
+			],
+			[
+				"company",
+				"companyMap"
+			],
+			[
+				"Cashen",
+				"fflbx__CashEntryLineItem__c"
+			],
+			[
+				"get",
+				"PUBLIC getStackTraceString() \tString"
+			],
+			[
+				"c2g__journ",
+				"c2g__JournalCurrency__c"
+			],
+			[
+				"journalwrapp",
+				"journalWrapperList"
+			],
+			[
+				"jour",
+				"journalWrapper"
+			],
+			[
+				"compan",
+				"companyWrapper"
+			],
+			[
+				"new",
+				"newJournalMap"
+			],
+			[
+				"Desit",
+				"Destination_Company__c"
+			],
+			[
+				"cashentr",
+				"c2g__CashEntry__r"
+			],
+			[
+				"Account",
+				"c2g__Account__c"
+			],
+			[
+				"c2gjounal",
+				"c2g__codaJournal__c"
+			],
+			[
+				"c2gjourn",
+				"c2g__codaJournal__c"
+			],
+			[
+				"inter",
+				"intercoDefinitionMap"
+			],
+			[
+				"relate",
+				"c2g__RelatedCompany__c"
+			],
+			[
+				"ownercom",
+				"c2g__ownerCompany__c"
+			],
+			[
+				"c2g__owner",
+				"c2g__ownerCompany__c"
+			],
+			[
+				"Destinat",
+				"Destination_Company__c"
+			],
+			[
+				"old",
+				"oldMap"
+			],
+			[
+				"ali",
+				"aliRecalcIds"
+			],
+			[
+				"bli",
+				"bliInsertList"
+			],
+			[
+				"ren",
+				"renewalpricebookIds"
+			],
+			[
+				"Renewl",
+				"Renewal_Pricebook__c"
+			],
+			[
+				"Renewa",
+				"Renewal_Pricebook__c"
+			],
+			[
+				"renewa",
+				"defaultRenewalPricebook"
+			],
+			[
+				"Revenue",
+				"Revenue_Category__c"
+			],
+			[
+				"Cont",
+				"Contract_End_Date__c"
+			],
+			[
+				"Con",
+				"Contract_Start_Date__c"
+			],
+			[
+				"Line",
+				"Line_Item_Description__c"
+			],
+			[
+				"Lin",
+				"Line_Item_Description__c"
+			],
+			[
+				"Activity",
+				"Activity_Line_Item__c"
+			],
+			[
+				"Billin",
+				"Billing_Contract_Line_Item__c"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "trigger",
+		"selected_items":
+		[
+			[
+				"trigger",
+				"MavensMate: New Apex Trigger"
+			],
+			[
+				"test",
+				"MavensMate: Run Apex Tests..."
+			],
+			[
+				"class",
+				"MavensMate: New Apex Class"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control settings",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"mavens",
+				"MavensMate: New Project..."
+			],
+			[
+				"package control setting",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package control sett",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/briankrynitsky/Documents/Apex/CLD - SRPFULL"
+	],
+	"file_history":
+	[
+		"/Users/briankrynitsky/Documents/Apex/ASCAP - Production/src/classes/ffaAccountManagementHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/ASCAP - Production/src/classes/ffaNLSIntegrationHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/ASCAP - Production/src/classes/ffaAccountManagementController.cls",
+		"/Users/briankrynitsky/Documents/Apex/ASCAP - Production/src/classes/ffaJournalEntryTriggerHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - SFDC/src/classes/psaUtilities.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - SFDC/src/classes/psaBillingEventReleaseSchedule.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - SFDC/src/classes/psaReleaseBillingEvents.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - SFDC/src/classes/psaRevRecGetDataSchedule.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - SFDC/src/classes/psaTimecardHeaderTriggerHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - SFDC/src/classes/PsaProjectTriggerHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - SFDC/src/pages/psaCreateResourceRequest.page",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - SFDC/src/classes/psaClearBillingData_Timecard.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - SFDC/src/classes/psaTimecardValidationBatch.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/pages/psaManageProjectPlan.page",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/pages/psaManageProjectMilestone.page",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaTimecardAlertBatch.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaTimecardAlert.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/triggers/ffaOpportunityLineItemTrigger.trigger",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaClearBillingData_Timecard.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaTimecardHeaderTriggerHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaLockTimecardSchedule.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaRevRecAutomationTest.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaUnapproveTimecard.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaRevRecGetDataSchedule.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaRevRecTestUtils.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaExpenseLockBatch.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaLockTimecardsBatch.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaTimecardHeaderHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaTimecardSplitHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaRevRecCreateTransactions.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/triggers/psaTimecardSplitTrigger.trigger",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/pages/psaCreateProject_PreStaffing.page",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaUtilities.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaScheduleManager.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaScheduleManagerJob.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/pages/psaScheduleManager.page",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/classes/psaScheduleManagerTest.cls",
+		"/Users/briankrynitsky/Documents/Apex/ASCAP - Sandbox/src/classes/psaScheduleManagerTest.cls",
+		"/Users/briankrynitsky/Documents/Apex/ASCAP - Sandbox/src/classes/psaScheduleManagerJob.cls",
+		"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src/staticresources/PsaScheduleManager.resource",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ffaUtilities_TEST.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/triggers/ffaCashEntryTrigger.trigger",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ffaCashEntryLineItemTriggerHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ffaIntercompanyCashEntryBatch.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ffaIntercompanyCashEntrySchedule.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ffaUtilities.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ffaTestUtilities.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/billingContract_TEST.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/triggers/billingContractLineTrigger.trigger",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/triggers/ffaCashEntryLine.trigger",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ffaRevenueTransactionJournal.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/triggers/ffaCashEntryTrigger.trigger-meta.xml",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/triggers/ffaCashEntryLine.trigger-meta.xml",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ChatterAnswersRegistration.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/billingContractSplitLinesController.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/triggers/activityLineItemTrigger.trigger",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/activityLineTriggerHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ffaIntercompanyPayableInvoiceSchedule.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ffaIntercompanyPayableInvoiceBatch.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/billingContractRenewalHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/triggers/ffaLockBoxLineTrigger.trigger",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/billingContractHandler.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/ffaInvoiceController.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/components/ffaInvoice.component",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/manageBillingContractRenewalController.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/pages/createBillingContract.page",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/createBillingContractController.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/pages/manageBillingContractRenewal.page",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/classes/psaManageBCLController.cls",
+		"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src/triggers/ffaAgreementTrigger.trigger",
+		"/Users/briankrynitsky/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/briankrynitsky/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/briankrynitsky/Documents/Apex/Manhattan - SFDC/src",
+			"/Users/briankrynitsky/Documents/Apex/Manhattan - FFORCE Sandbox/src",
+			"/Users/briankrynitsky/Documents/Apex/Newmarket - FFA/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"totalfinAnalysisMap",
+			"Finance_Charges_Total_Balance__c",
+			"journaldate__c",
+			"bei_TC_map",
+			"approved",
+			"billed__c",
+			"release",
+			"applyBillingTimePeriod",
+			"pse__Date__c",
+			"disable",
+			"Period_Complete__c = TRUE",
+			"Billing_Time_Period__c",
+			"BILLING_DATE",
+			"tp_list",
+			"type_time_period_map",
+			"Billing_Time_Period__c",
+			"billingtime",
+			"billing_time",
+			"delete",
+			"Revenue_Generating_Dept__c",
+			"billingStartDateFormatted",
+			"revenue_generating",
+			"isInsert",
+			"timecard_clear_billing_list",
+			"clearBillingData_tch",
+			"end date",
+			"tpm",
+			"link",
+			"outputtex",
+			"target",
+			"Record_Hash__c",
+			"CURRENT_DATE",
+			"calculateResourceTimecardHours",
+			"weekEnd",
+			"weekEndDtm",
+			"calcDate",
+			"Record_Hash__c",
+			"tcAlertList",
+			"calcDate",
+			"calculateResourceTimecardHours",
+			"date.today",
+			"getWeekEndingDatetime",
+			"timecard_clear_billing_list",
+			"approv",
+			"unappro",
+			"release",
+			"billed__c",
+			"released",
+			"billed",
+			"released",
+			"timecard_clear_billing_list",
+			"psaClearBillingData_Timecard",
+			"clear",
+			"revertApproval",
+			"psaUnapproveTimecard",
+			"billing_event",
+			"billing_even",
+			"cca",
+			"practice",
+			"pse__",
+			"pse",
+			"core",
+			"apir",
+			"appir",
+			"pse",
+			"pse__",
+			"postJournals",
+			"postPayableInvoices",
+			"postSinglePayableInvoices",
+			"c2g__codaPurchaseInvoice__c",
+			"populateBillingLineDescription",
+			"c2g.CODAAPICommon_10_0.Context",
+			"billingContractMaintenanceSchedule",
+			"ffrr__RevenueRecognitionTransaction__r",
+			"ffrr__RevenueRecognitionTransactionLine__c",
+			"ffrr__RecognitionPeriod__c",
+			"ffrr__Period__r",
+			"revTransaction",
+			"accountingcurr",
+			"currentCompany",
+			"ffaIntercompanyPayableInvoiceBatch",
+			"c2g__codaPurchaseInvoice__c",
+			"currencyKey",
+			"currencyMap",
+			"period",
+			"c2g__codaPeriod__c",
+			"dim2",
+			"c2g__codaDimension2__c",
+			"dim2Map",
+			"creditLine",
+			"debitLine",
+			"created__c",
+			"cashEntries",
+			"cashMap",
+			"Map<Id,Boolean>",
+			"Dimension_2__c",
+			"arLine",
+			"Dimension_2_Reference__c",
+			"dim2Map",
+			"dim2",
+			"c2g__codaDimension2__c",
+			"dim2",
+			"c2g__codaDimension2__c",
+			"Dimension_3__c",
+			"Dimension_2__c",
+			"Dimension2",
+			"boxLine",
+			"map",
+			"dim1",
+			"companyWrapper",
+			"cashEntries",
+			"createCancellingARJournal",
+			"c2g__Status__c",
+			"c2g__JournalLineItem__c",
+			"cashEntries",
+			"c2g__codaCashEntry__c",
+			"cashEntries",
+			"c2g__ownerCompany__r",
+			"key",
+			"debitLine",
+			"journal__c",
+			"definitino",
+			"intercompan",
+			"dim1",
+			"created",
+			"ACTION_Rebuild_Activity_Lines__c",
+			"Billing_Contract__r",
+			"Billing_Contract__r.Account__c"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CLD - SRPFULL.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"financialsummarybatch",
+				"src/classes/ffaFinancialSummary_Batch.cls"
+			],
+			[
+				"ffafinancial",
+				"src/classes/ffaFinancialSummaryHandler.cls"
+			],
+			[
+				"ffabalancesumm",
+				"src/classes/ffaBalanceSummaryHandler.cls"
+			],
+			[
+				"ffaaccount",
+				"src/classes/ffaAccountManagementHandler.cls"
+			],
+			[
+				"ffanlsintegrationhandler",
+				"src/classes/ffaNLSIntegrationHandler.cls"
+			],
+			[
+				"ffaaccountmanagementcontroller",
+				"src/classes/ffaAccountManagementController.cls"
+			],
+			[
+				"ffajournalentrytriggerhandler",
+				"src/classes/ffaJournalEntryTriggerHandler.cls"
+			],
+			[
+				"psaprojectrigger",
+				"src/classes/PsaProjectTriggerHandler.cls"
+			],
+			[
+				"psaproje",
+				"src/triggers/psaProjectTrigger.trigger"
+			],
+			[
+				"timecardtrigger",
+				"src/classes/psaTimecardHeaderTriggerHandler.cls"
+			],
+			[
+				"psatimecardsplit",
+				"src/triggers/psaTimecardSplitTrigger.trigger"
+			],
+			[
+				"psatimecardsplittrig",
+				"src/classes/PsaTimecardSplitTriggerHandler.cls"
+			],
+			[
+				"releasebillin",
+				"src/classes/psaReleaseBillingEvents.cls"
+			],
+			[
+				"release",
+				"src/classes/psaBillingEventReleaseSchedule.cls"
+			],
+			[
+				"psautils",
+				"src/classes/psaUtilities.cls"
+			],
+			[
+				"billingeven",
+				"src/classes/psaBillingEventGeneration.cls"
+			],
+			[
+				"psaut",
+				"src/classes/psaUtilities.cls"
+			],
+			[
+				"psatest",
+				"src/classes/PsaTestUtil.cls"
+			],
+			[
+				"billingeventriggerhan",
+				"src/classes/PsaBillingEventItemTriggerHandler.cls"
+			],
+			[
+				"psabillin",
+				"src/triggers/psaBillingEventItemTrigger.trigger"
+			],
+			[
+				"psamis",
+				"src/classes/PsaMiscAdjustmentTriggerHandler.cls"
+			],
+			[
+				"billingevenitemtrig",
+				"src/classes/PsaBillingEventItemTriggerHandler.cls"
+			],
+			[
+				"billingevenitem",
+				"src/triggers/psaBillingEventItemTrigger.trigger"
+			],
+			[
+				"misce",
+				"src/triggers/psaMiscellaneousAdjustmentTrigger.trigger"
+			],
+			[
+				"getdata",
+				"src/classes/psaRevRecGetDataSchedule.cls"
+			],
+			[
+				"psareleasebillingevents",
+				"src/classes/psaReleaseBillingEvents.cls"
+			],
+			[
+				"billingreal",
+				"src/classes/psaBillingEventReleaseSchedule.cls"
+			],
+			[
+				"timecarval",
+				"src/classes/psaTimecardValidationBatch.cls"
+			],
+			[
+				"psaclearbillingdata_timecard",
+				"src/classes/psaClearBillingData_Timecard.cls"
+			],
+			[
+				"psacreateresourcerequest",
+				"src/pages/psaCreateResourceRequest.page"
+			],
+			[
+				"projectriggerhandl",
+				"src/classes/PsaProjectTriggerHandler.cls"
+			],
+			[
+				"clear",
+				"src/classes/psaClearBillingData_Timecard.cls"
+			],
+			[
+				"timecardtriggerhand",
+				"src/classes/PsaTimecardSplitTriggerHandler.cls"
+			],
+			[
+				"psaunapprovetimecard",
+				"src/classes/psaUnapproveTimecard.cls"
+			],
+			[
+				"unapp",
+				"src/classes/psaUnapproveTimecard.cls"
+			],
+			[
+				"gpinvoice",
+				"src/classes/psaGPInvoiceIntegration.cls"
+			],
+			[
+				"managemile",
+				"src/pages/psaManageProjectMilestone.page"
+			],
+			[
+				"manageproj",
+				"src/pages/psaManageProjectPlan.page"
+			],
+			[
+				"timecardaler",
+				"src/classes/psaTimecardAlert.cls"
+			],
+			[
+				"psatimecardheader",
+				"src/classes/psaTimecardHeaderTriggerHandler.cls"
+			],
+			[
+				"unappro",
+				"src/classes/psaUnapproveTimecard.cls"
+			],
+			[
+				"timecardsplit",
+				"src/triggers/psaTimecardSplitTrigger.trigger"
+			],
+			[
+				"psarevrecgetdataschedule",
+				"src/classes/psaRevRecGetDataSchedule.cls"
+			],
+			[
+				"createtransa",
+				"src/classes/psaRevRecCreateTransactions.cls"
+			],
+			[
+				"revrectest",
+				"src/classes/psaRevRecAutomationTest.cls"
+			],
+			[
+				"psatimecardsplithandler",
+				"src/classes/psaTimecardSplitHandler.cls"
+			],
+			[
+				"expenses",
+				"src/classes/psaExpenseLockBatch.cls"
+			],
+			[
+				"locktime",
+				"src/classes/psaLockTimecardSchedule.cls"
+			],
+			[
+				"locktimecard",
+				"src/classes/psaLockTimecardsBatch.cls"
+			],
+			[
+				"timecardheader",
+				"src/classes/psaTimecardHeaderHandler.cls"
+			],
+			[
+				"revrec",
+				"src/classes/psaRevRecCreateTransactions.cls"
+			],
+			[
+				"psacreateproj",
+				"src/pages/psaCreateProject_PreStaffing.page"
+			],
+			[
+				"psasche",
+				"src/classes/psaScheduleManagerTest.cls"
+			],
+			[
+				"psascheudl",
+				"src/classes/psaScheduleManagerTest.cls"
+			],
+			[
+				"schedu",
+				"src/classes/psaScheduleManager.cls"
+			],
+			[
+				"scheduleman",
+				"src/classes/psaScheduleManager.cls"
+			],
+			[
+				"psau",
+				"src/classes/psaUtilities.cls"
+			],
+			[
+				"prepaid",
+				"src/classes/ffaPrepaidExpenseHandlerTEST.cls"
+			],
+			[
+				"ffatest",
+				"src/classes/ffaTestUtilities.cls"
+			],
+			[
+				"ffau",
+				"src/classes/ffaUtilities.cls"
+			],
+			[
+				"ffaut",
+				"src/classes/ffaUtilities_TEST.cls"
+			],
+			[
+				"ffacashentrytrigger",
+				"src/triggers/ffaCashEntryTrigger.trigger"
+			],
+			[
+				"ffacashentryline",
+				"src/classes/ffaCashEntryLineItemTriggerHandler.cls"
+			],
+			[
+				"billingcontline",
+				"src/triggers/billingContractLineTrigger.trigger"
+			],
+			[
+				"ffaintercompanycashentrybatch",
+				"src/classes/ffaIntercompanyCashEntryBatch.cls"
+			],
+			[
+				"cashsche",
+				"src/classes/ffaIntercompanyCashEntrySchedule.cls"
+			],
+			[
+				"ffacashentrylineitemtriggerhandler",
+				"src/classes/ffaCashEntryLineItemTriggerHandler.cls"
+			],
+			[
+				"ffatu",
+				"src/classes/ffaUtilities_TEST.cls"
+			],
+			[
+				"cashentr",
+				"src/classes/ffaCashEntryTrigger_TEST.cls"
+			],
+			[
+				"billingcon",
+				"src/classes/billingContract_TEST.cls"
+			],
+			[
+				"ffacashent",
+				"src/triggers/ffaCashEntryTrigger.trigger"
+			],
+			[
+				"cashent",
+				"src/triggers/ffaCashEntryTrigger.trigger"
+			],
+			[
+				"cashentrymet",
+				"src/triggers/ffaCashEntryTrigger.trigger-meta.xml"
+			],
+			[
+				"cashentrmeta",
+				"src/triggers/ffaCashEntryLine.trigger-meta.xml"
+			],
+			[
+				"interc",
+				"src/classes/ffaIntercompanyPayableInvoiceSchedule.cls"
+			],
+			[
+				"intercombatc",
+				"src/classes/ffaIntercompanyPayableInvoiceBatch.cls"
+			],
+			[
+				"cashentrlin",
+				"src/triggers/ffaCashEntryLine.trigger"
+			],
+			[
+				"cashen",
+				"src/classes/ffaCashEntryLineItemTriggerHandler.cls"
+			],
+			[
+				"cashentrline",
+				"src/triggers/ffaCashEntryLine.trigger"
+			],
+			[
+				"invoicecontr",
+				"src/classes/ffaInvoiceController.cls"
+			],
+			[
+				"invoic",
+				"src/components/ffaInvoice.component"
+			],
+			[
+				"activ",
+				"src/triggers/activityLineItemTrigger.trigger"
+			],
+			[
+				"activity",
+				"src/classes/activityLineTriggerHandler.cls"
+			],
+			[
+				"split",
+				"src/classes/billingContractSplitLinesController.cls"
+			],
+			[
+				"billing",
+				"src/classes/billingContractHandler.cls"
+			],
+			[
+				"renewal",
+				"src/pages/manageBillingContractRenewal.page"
+			],
+			[
+				"invoice",
+				"src/components/ffaInvoice.component"
+			],
+			[
+				"createbillig",
+				"src/pages/createBillingContract.page"
+			],
+			[
+				"createbilling",
+				"src/classes/createBillingContractController.cls"
+			],
+			[
+				"renewalcon",
+				"src/classes/manageBillingContractRenewalController.cls"
+			],
+			[
+				"activit",
+				"src/triggers/activityLineItemTrigger.trigger"
+			],
+			[
+				"managb",
+				"src/classes/psaManageBCLController.cls"
+			],
+			[
+				"billingcontracthander",
+				"src/classes/billingContractHandler.cls"
+			],
+			[
+				"invoicecom",
+				"src/components/ffaInvoice.component"
+			],
+			[
+				"invoicecon",
+				"src/classes/ffaInvoiceController.cls"
+			],
+			[
+				"ffaa",
+				"src/triggers/ffaAgreementTrigger.trigger"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
